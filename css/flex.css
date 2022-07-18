@@ -8,9 +8,9 @@ h1 {
   height: 550px;
   border: 4px solid black;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
-  align-items: center;
+  align-items: flex-end;
   flex-wrap: wrap;
 }
 
